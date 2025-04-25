@@ -1,0 +1,6 @@
+datasets
+gradio
+transformers
+tf-keras
+tensorflow
+matplotlib
